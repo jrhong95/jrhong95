@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Backend Developer!
+
 <img src="https://img.shields.io/github/followers/jrhong95?style=social">
 
 
